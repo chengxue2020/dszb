@@ -4,7 +4,7 @@
     with:
         file-url: 'https://iptv-org.github.io/iptv/index.country.m3u'
         file-name: 'iptv.m3u'
-        location: './new-folder-to-be-created'
+        location: './iptv'
 - name: Print the file path
     run: echo "The file was downloaded to ${{ steps.download-poetry.outputs.file-path }}"
 
