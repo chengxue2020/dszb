@@ -1,14 +1,10 @@
-name: copy files
-on: [push]
-jobs:
+- name: Download a file
+    uses: carlosperate/download-file-action@v1.0.3
+    id: download-poetry
+    with:
+        file-url: 'https://iptv-org.github.io/iptv/index.country.m3u'
+        file-name: 'iptv.m3u'
+        location: './new-folder-to-be-created'
+- name: Print the file path
+    run: echo "The file was downloaded to ${{ steps.download-poetry.outputs.file-path }}"
 
-  build:
-    name: copy
-    runs-on: ubuntu -latest
-    steps:
-    - uses: actions/checkout@master
-    - name: copy file
-      uses: canastro/copy-file-action@master
-      with:
-        source: "https://iptv-org.github.io/iptv/index.country.m3u"
-        target: "iptv-a.txt"
