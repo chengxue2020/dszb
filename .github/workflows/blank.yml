@@ -1,0 +1,23 @@
+name: Test Download
+on:
+  repository_dispatch:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: 'file url'
+        required: true
+        default: ''
+      file_name:
+        description: 'file name'
+        required: false
+        default: ''
+jobs:
+  Test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: download
+        uses: HalfCoke/download2release@v1
+        with:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          DOWNLOAD_URL: ${{ github.event.inputs.url }}
+          FILE_NAME: ${{ github.event.inputs.file_name }}
