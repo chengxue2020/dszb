@@ -244,7 +244,7 @@ CHC动作电影,http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888890/224/
 中国交通频道(北京),https://tv.cctbn.com/cctbn/beijing/playlist.m3u8
 中国交通频道(河北),https://tv.cctbn.com/cctbn/hebei/playlist.m3u8
 
-18+,#genre#_DIYP
+18+_DIYP,#genre#
 18+鲍鱼游戏,https://t12.cdn2020.com:12337/video/m3u8/2021/11/02/9a30f81d/index.m3u8
 18+鲍鱼游戏,https://t12.cdn2020.com:12337/video/m3u8/2021/11/02/87c88247/index.m3u8
 https://hls-hw.xvideos-cdn.com/videos/hls/f6/5c/fd/f65cfd576732d7be26b769346985010f/hls-720p-2ec5a.m3u8?e=1636905342&l=0&h=f84478244ae5f76b9f2fb0d1021ffe1f
