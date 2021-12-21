@@ -3,7 +3,11 @@
 河北卫视,http://117.169.124.36:6610/ysten-businessmobile/live/hebeistv/index.m3u8
 河北卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225732/index.m3u8
 河北卫视,http://192.168.2.1:1234/rtp/238.255.0.106:6408
-
+河北生活广播,http://satellitepull.cnr.cn/live/wxhebshgb/playlist.m3u8
+河北故事广播,http://satellitepull.cnr.cn/live/wxhebjjgb/playlist.m3u8
+河北交通广播,http://satellitepull.cnr.cn/live/wxhebjtgb/playlist.m3u8
+河北新闻广播,http://satellitepull.cnr.cn/live/wxhebzhgb/playlist.m3u8
+河北文艺广播,http://satellitepull.cnr.cn/live/wxhebwygb/playlist.m3u8
 
 国内,#genre#
 CCTV-1,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-1/index.m3u8
