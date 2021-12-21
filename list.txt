@@ -1,3 +1,10 @@
+河北,#genre#
+河北卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225610/index.m3u8
+河北卫视,http://117.169.124.36:6610/ysten-businessmobile/live/hebeistv/index.m3u8
+河北卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225732/index.m3u8
+河北卫视,http://192.168.2.1:1234/rtp/238.255.0.106:6408
+
+
 国内,#genre#
 CCTV-1,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-1/index.m3u8
 CCTV-1,http://39.135.138.58:18890/PLTV/88888888/224/3221225642/index.m3u8
@@ -57,9 +64,6 @@ CGTN,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-9/index.m3u8
 北京卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225674/index.m3u8
 天津卫视,http://117.169.124.36:6610/ysten-businessmobile/live/hdtianjinstv/index.m3u8
 天津卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225739/index.m3u8
-河北卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225610/index.m3u8
-河北卫视,http://117.169.124.36:6610/ysten-businessmobile/live/hebeistv/index.m3u8
-河北卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225732/index.m3u8
 山西卫视,http://117.169.124.36:6610/ysten-businessmobile/live/shanxistv/index.m3u8
 山西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225730/index.m3u8
 内蒙古卫视,http://117.169.124.36:6610/ysten-businessmobile/live/neimenggustv/index.m3u8
@@ -306,7 +310,6 @@ CGTN,http://192.168.2.1:1234/rtp/238.255.0.78:6184
 湖北卫视,http://192.168.2.1:1234/rtp/238.255.0.103:6384
 重庆卫视,http://192.168.2.1:1234/rtp/238.255.0.104:6392
 河南卫视,http://192.168.2.1:1234/rtp/238.255.0.105:6400
-河北卫视,http://192.168.2.1:1234/rtp/238.255.0.106:6408
 深圳卫视,http://192.168.2.1:1234/rtp/238.255.0.107:6416
 哈哈炫动,http://192.168.2.1:1234/rtp/238.255.0.108:6424
 卡酷卡通,http://192.168.2.1:1234/rtp/238.255.0.109:6432
@@ -499,7 +502,7 @@ CGTN记录,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/32212
 天元围棋,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225714/1/index.m3u8?fmt=ts2hls
 DoxTV,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226048/1/index.m3u8?fmt=ts2hls
 
-📺省台,#genre#
+📺卫视,#genre#
 安徽卫视,http://218.204.171.201/gitv_live/G_ANHUI-HQ/G_ANHUI-HQ.m3u8?p=GITV&area=GD_CMCC
 安徽卫视,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ahwshd/4000000/mnf.m3u8
 北京纪实,http://218.204.171.201/gitv_live/G_BEIJINGJS-HQ/G_BEIJINGJS-HQ.m3u8?p=GITV&area=GD_CMCC
@@ -1204,7 +1207,7 @@ NewTV愛情喜劇,hNewTV愛情喜劇,ttp://ottrrs.hl.chinamobile.com/PLTV/888888
 NewTV愛情喜劇,http://112.15.230.34/PLTV/88888888/224/3221229731/index.m3u8
 NewTV愛情喜劇,http://117.148.179.45/PLTV/88888888/224/3221229014/index.m3u8
 
-📺埋堆堆(TVB)),#genre#
+📺埋堆堆(TVB),#genre#
 陈浩民西游记,http://121.51.249.99/txdirect.hls.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1.m3u8
 陈浩民封神榜,http://121.51.249.99/txdirect.hls.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.m3u8
 张卫健版西游记,http://121.51.249.99/txdirect.hls.huya.com/src/1199561182641-1199561182641-5434452429213007872-2399122488738-10057-A-0-1.m3u8
@@ -1281,7 +1284,7 @@ KK_喜剧电影,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
 KK_女神影院,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
 美食李子柒,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 
-🎵mv,#genre#
+🎶MV,#genre#
 韓國娛樂台KMTV,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
 韓國娛樂,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv016
 韩国DJ Soda Remix 2021 电音,https://vd3.bdstatic.com/mda-mev3hw0htz28h5wn/1080p/cae_h264/1622343504467773766/mda-mev3hw0htz28h5wn.mp4
@@ -1372,7 +1375,7 @@ MyHeartWillGoOn(泰坦尼克号主题曲),https://15799848.s21v.faiusr.com/58/AB
 辛晓琪-领悟,http://vodcdn.video.taobao.com/oss/ali-video/2a4e61d4bba6b712bd5638fd508e85a5/video.m3u8
 2021年6首网络伤感情歌,http://39.165.32.235:88/v1.go2yd.com/video/fcaf341a6038ed4d8dbd50deaf3036c1.mp4_bd.mp4
 
-🎵广播电台,#genre#
+📻广播电台,#genre#
 CNR经典音乐,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 CCTV音乐之声,http://ngcdn003.cnr.cn/live/yyzs48/index.m3u8
 怀集音乐台,http://live.xmcdn.com:80/live/966/64.m3u8
@@ -1412,21 +1415,6 @@ CCTV音乐之声,http://ngcdn003.cnr.cn/live/yyzs48/index.m3u8
 新疆音乐广播,http://aod.xjbs.com.cn:1935/live/1039/32K/tzwj_video.m3u8
 云南音乐广播,http://ls.qingting.fm/live/1929.m3u8
 浙江动听,http://ls.qingting.fm/live/4866.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="OK"
-凤凰资讯,https://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8
-CCTV综合,http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8
-CCTV经济,http://cctvalih5ca.v.myalicdn.com/live/cctv2_2/index.m3u8
-CCTV国际,http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8
-CCTV纪录,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvjilu_2/index.m3u8
-CCTV科教,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv10_2/index.m3u8
-CCTV新闻,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
-第一财经,http://39.134.39.37/PLTV/88888888/224/3221226172/index.m3u8
-美国ABC新闻,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-亚洲电视CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-NHK华语视界,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
-半岛电视新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-RTI国语,https://www.soundvideostar.com/live/_definst_/rti3/playlist.m3u8
-RTI音乐,https://www.soundvideostar.com/live/_definst_/rti4/playlist.m3u8
 中广新闻网,http://stream.rcs.revma.com/78fm9wyy2tzuv
 中广流行网,http://stream.rcs.revma.com/aw9uqyxy2tzuv
 中广音乐网,http://stream.rcs.revma.com/ks4vsmg3qtzuv
