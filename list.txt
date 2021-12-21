@@ -240,6 +240,10 @@ CHC动作电影,http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888890/224/
 中天新闻台,http://live.52ypp.com:81/hk.php?id=16
 经典粤语电影,http://live.52ypp.com:81/yy.php?id=1
 
+中国交通频道,#genre#
+中国交通频道(北京),https://tv.cctbn.com/cctbn/beijing/playlist.m3u8
+中国交通频道(河北),https://tv.cctbn.com/cctbn/hebei/playlist.m3u8
+
 18+,#genre#_DIYP
 18+鲍鱼游戏,https://t12.cdn2020.com:12337/video/m3u8/2021/11/02/9a30f81d/index.m3u8
 18+鲍鱼游戏,https://t12.cdn2020.com:12337/video/m3u8/2021/11/02/87c88247/index.m3u8
