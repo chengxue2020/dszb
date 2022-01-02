@@ -18,6 +18,7 @@
 河北影视,http://live6.plus.hebtv.com/hbysx/hd/live.m3u8
 河北都市,http://live3.plus.hebtv.com/hbdsx/hd/live.m3u8
 河北少儿,http://live6.plus.hebtv.com/sekjx/hd/live.m3u8
+河北少儿,http://live6.plus.hebtv.com/sekjsl/sd/live.m3u8
 河北农民,http://hbzx.chinashadt.com:2036/zhibo/stream:hbnm.stream/playlist.m3u8
 河北农民,http://hbzx.chinashadt.com:2036/zhibo/stream:hbnm.stream_360p/playlist.m3u8
 河北农民,http://live3.plus.hebtv.com/nmpdx/hd/live.m3u8
@@ -32,6 +33,7 @@
 河北新闻广播,http://satellitepull.cnr.cn/live/wxhebzhgb/playlist.m3u8
 河北文艺广播,http://satellitepull.cnr.cn/live/wxhebwygb/playlist.m3u8
 河北音乐广播,http://satellitepull.cnr.cn/live/wxhebyygb/playlist.m3u8
+河北音乐广播,http://ls.qingting.fm/live/1649.m3u8
 河北故事广播,http://satellitepull.cnr.cn/live/wxhebjjgb/playlist.m3u8
 河北文艺广播,http://satellitepull.cnr.cn/live/wxhebwygb/playlist.m3u8
 河北经济广播,http://ls.qingting.fm/live/4546579.m3u8
@@ -952,7 +954,6 @@ BesTV2,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227036/
 Hot炫动3D,http://117.148.187.46/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228578/01.m3u8?fmt=ts2hls
 Hot少儿动漫,http://39.134.176.151/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228387/01.m3u8?fmt=ts2hls
 北京IPTV淘BABY,http://39.135.238.86/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
-河北少儿,http://live6.plus.hebtv.com/sekjsl/sd/live.m3u8
 深圳少儿,http://ye23.win/iptv/sztv.php?id=7#http://cdn.chxjon.cn/iptv/QQ582185381/sztv.php?id=7
 福建少儿,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226960/index.m3u8
 福建少儿,rtsp://183.252.166.199/PLTV/88888888/224/3221226120/10000100000000060000000002358082_0.smil
@@ -1094,16 +1095,16 @@ IPTV相声小品,http://39.134.39.37/PLTV/88888888/224/3221226260/index.m3u8
 乐视_经典电影,http://api.idianshijia.com/gslb/live?stream_id=lsloop_dianying&type=.m3u8
 乐视_综艺节目,http://api.idianshijia.com/gslb/live?stream_id=lsloop_zongyi&type=.m3u8
 乐视_喜剧电影,http://api.idianshijia.com/gslb/live?stream_id=lsloop_xiju&type=.m3u8
-经典港片,http://119.36.227.41/r/baiducdncnc.inter.ptqy.gitv.tv/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8
-票房收割机,http://116.162.7.41/r/baiducdncnc.inter.ptqy.gitv.tv/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
-豆瓣高分,http://116.162.7.41/r/baiducdncnc.inter.ptqy.gitv.tv/tslive/c51_lb_112_1080P_t10/c51_lb_112_1080P_t10.m3u8
-惊悚午夜场,http://116.162.7.41/r/baiducdncnc.inter.ptqy.gitv.tv/tslive/c51_lb_115_600_t10/c51_lb_115_600_t10.m3u8
-动画电影,http://116.162.7.41/r/baiducdncnc.inter.ptqy.gitv.tv/tslive/c51_lb_118_600_t10/c51_lb_118_600_t10.m3u8
-电影大片,http://116.162.7.41/r/baiducdncnc.inter.ptqy.gitv.tv/tslive/c56_lb_183_600_t10/c56_lb_183_600_t10.m3u8
-动作电影,http://116.162.7.41/r/baiducdncnc.inter.ptqy.gitv.tv/tslive/c52_lb_61_1080P_t10/c52_lb_61_1080P_t10.m3u8
-华语院线,http://116.162.7.41/r/baiducdncnc.inter.ptqy.gitv.tv/tslive/c51_lb_114_1080P_t10/c51_lb_114_1080P_t10.m3u8
+乐视_经典港片,http://119.36.227.41/r/baiducdncnc.inter.ptqy.gitv.tv/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8
+乐视_票房收割机,http://116.162.7.41/r/baiducdncnc.inter.ptqy.gitv.tv/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
+乐视_豆瓣高分,http://116.162.7.41/r/baiducdncnc.inter.ptqy.gitv.tv/tslive/c51_lb_112_1080P_t10/c51_lb_112_1080P_t10.m3u8
+乐视_惊悚午夜场,http://116.162.7.41/r/baiducdncnc.inter.ptqy.gitv.tv/tslive/c51_lb_115_600_t10/c51_lb_115_600_t10.m3u8
+乐视_动画电影,http://116.162.7.41/r/baiducdncnc.inter.ptqy.gitv.tv/tslive/c51_lb_118_600_t10/c51_lb_118_600_t10.m3u8
+乐视_电影大片,http://116.162.7.41/r/baiducdncnc.inter.ptqy.gitv.tv/tslive/c56_lb_183_600_t10/c56_lb_183_600_t10.m3u8
+乐视_动作电影,http://116.162.7.41/r/baiducdncnc.inter.ptqy.gitv.tv/tslive/c52_lb_61_1080P_t10/c52_lb_61_1080P_t10.m3u8
+乐视_华语院线,http://116.162.7.41/r/baiducdncnc.inter.ptqy.gitv.tv/tslive/c51_lb_114_1080P_t10/c51_lb_114_1080P_t10.m3u8
 
-📺cibn,#genre#
+📺CIBN,#genre#
 经典剧场,http://211.94.219.178:18080/PLTV/68/224/3221226402/index.m3u8
 经典剧场,http://117.148.179.176/PLTV/88888888/224/3221231595/index.m3u8
 古装剧场,http://211.94.219.178:18080/PLTV/68/224/3221226400/index.m3u8
@@ -1183,7 +1184,7 @@ iHot爱都市,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/8888888
 iHot爱青春,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230130/index.m3u8
 iHot爱旅行,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
 
-📺NEWTV,#genre#
+📺NewTV,#genre#
 NewTV家庭剧场,http://39.134.67.226/PLTV/88888888/224/3221225538/index.m3u8
 NewTV金牌综艺,http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227541/index.m3u8
 NewTV金牌综艺,http://39.134.67.226/PLTV/88888888/224/3221225525/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8
@@ -1215,6 +1216,7 @@ NewTV愛情喜劇,hNewTV愛情喜劇,ttp://ottrrs.hl.chinamobile.com/PLTV/888888
 NewTV愛情喜劇,http://112.15.230.34/PLTV/88888888/224/3221229731/index.m3u8
 NewTV愛情喜劇,http://117.148.179.45/PLTV/88888888/224/3221229014/index.m3u8
 
+
 📺埋堆堆(TVB),#genre#
 陈浩民西游记,http://121.51.249.99/txdirect.hls.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1.m3u8
 陈浩民封神榜,http://121.51.249.99/txdirect.hls.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.m3u8
@@ -1236,6 +1238,8 @@ tvb电视剧,http://121.51.249.99/txdirect.hls.huya.com/src/1199561226091-119956
 楚汉骄雄,http://121.51.249.99/txdirect.hls.huya.com/src/1199561177177-1199561177177-5434428961511702528-2399122477810-10057-A-0-1.m3u8
 憨夫成龙,http://121.51.249.99/txdirect.hls.huya.com/src/1199563489752-1199563489752-5444361395506249728-2399127102960-10057-A-0-1.m3u8
 倚天屠龙记-梁朝伟,http://121.51.249.99/txdirect.hls.huya.com/src/1199561276760-1199561276760-5434856667239940096-2399122676976-10057-A-0-1.m3u8
+
+
 
 📺影視轮播,#genre#
 金庸頻道,http://117.148.179.132/PLTV/88888888/224/3221231477/index.m3u8
@@ -1292,98 +1296,27 @@ KK_喜剧电影,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
 KK_女神影院,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
 美食李子柒,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 
-🎶MV,#genre#
-韓國娛樂台KMTV,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
-韓國娛樂,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv016
-韩国DJ Soda Remix 2021 电音,https://vd3.bdstatic.com/mda-mev3hw0htz28h5wn/1080p/cae_h264/1622343504467773766/mda-mev3hw0htz28h5wn.mp4
-CCTV风云音乐,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226083/1/index.m3u8?fmt=ts2hls
-音乐20TV,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-UTV舞蹈视界,http://39.134.198.32:6410/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/SD-1500k-576P-youshizy/index.m3u8?%20
-MTV音樂台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d82?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpljb%2FpPGYAqq21iv2vQJp%2B%2B%2FBLThgPxbdMeXbUy1XfWEH
-M20TV,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-MTVYo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
-MTVBiggestPop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-MTVBlockParty,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-MTVSpankin'New,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
-岭南戲曲,http://szlive.grtn.cn/lnxq/sd/live.m3u8
-MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-MTV Spankin\' New,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
-MTV Yo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
-我们的爱,https://gmail.ku8.club/jianghu/iqiyi/281057b6f71840a1970f8e0ff5c97dd9.m3u8
-木头的心,https://vd3.bdstatic.com/mda-im6rnrey5buvapvp/sc/mda-im6rnrey5buvapvp.mp4
-错位时空,http://play.bgp.68tool.com/video/m3u8/2021/05/15/50056b47/playlist.m3u8
-绿色,http://play.bgp.68tool.com/m3u8/2019/05/25/spGx73FS4wD4b9mCo6LA/01w8p.m3u8
-白月光与朱砂痣,http://play.bgp.68tool.com/video/m3u8/2021/05/02/2995e892/playlist.m3u8
-暗里着迷,http://play.bgp.68tool.com/video/m3u8/2021/05/05/cddcf4d6/playlist.m3u8
-等一分钟,http://play.bgp.68tool.com/video/m3u8/2021/05/05/5972aed6/playlist.m3u8
-9420,http://play.bgp.68tool.com/video/m3u8/2021/04/09/13404be6/playlist.m3u8
-一次就好,http://play.bgp.68tool.com/video/m3u8/2021/04/03/7d7f7763/playlist.m3u8
-喜欢你,http://play.bgp.68tool.com/video/m3u8/2021/04/07/df5f8626/playlist.m3u8
-友情岁月,https://cache1.parwix.com:4433/cache/iqiyi/05153f6df1b9b366b3137c260c4fcc8f.m3u8
-友情岁月（女版）,https://cache1.parwix.com:4433/cache/iqiyi/1882056e5e7fac02f68d9439e10802c0.m3u8
-少年,http://play.bgp.68tool.com/video/m3u8/2020/11/05/9e2d5973/playlist.m3u8
-我的梦,http://play.bgp.68tool.com/video/m3u8/2020/10/26/3cdf8df8/playlist.m3u8
-当年情,http://play.bgp.68tool.com/video/m3u8/2021/06/02/390ac537/playlist.m3u8
-莫斯科没有眼泪,http://play.bgp.68tool.com/video/m3u8/2021/06/05/0433b9ce/playlist.m3u8
-追光者《夏至未至》,http://play.bgp.68tool.com/video/m3u8/2020/10/24/83619562/playlist.m3u8
-爱要怎么说出口,http://play.bgp.68tool.com/video/m3u8/2021/06/07/7b6837e2/playlist.m3u8
-可惜没如果,http://play.bgp.68tool.com/video/m3u8/2021/06/07/4ae9bc1b/playlist.m3u8
-你怎么舍得我难过,http://play.bgp.68tool.com/video/m3u8/2021/06/07/edd5d8d0/playlist.m3u8
-风中有朵雨做的云,http://play.bgp.68tool.com/video/m3u8/2021/06/07/77ec385b/playlist.m3u8
-羞答答的玫瑰静悄悄地开,http://play.bgp.68tool.com/video/m3u8/2021/06/07/02ef982b/playlist.m3u8
-偏爱,http://play.bgp.68tool.com/video/m3u8/2021/06/07/635b1e54/playlist.m3u8
-大风吹,http://play.bgp.68tool.com/video/m3u8/2021/06/05/6c6e1d30/playlist.m3u8
-最亲的人,http://play.bgp.68tool.com/video/m3u8/2021/05/02/b90395ab/playlist.m3u8
-勇气,http://play.bgp.68tool.com/video/m3u8/2021/04/29/04cd4419/playlist.m3u8
-芒种,http://play.bgp.68tool.com/video/m3u8/2021/04/09/682d70e1/playlist.m3u8
-阿桑-寂寞在唱歌,https://vd2.bdstatic.com/mda-km9s2rpnbupmirtf/v1-cae/1080p/mda-km9s2rpnbupmirtf.mp4
-张信哲-信仰,https://vd4.bdstatic.com/mda-kf92mpmcu9zbyxn8/v1-cae/sc/mda-kf92mpmcu9zbyxn8.mp4
-金莎-星月神话,https://vd4.bdstatic.com/mda-jjew0iw0dkh9dhh0/sc/mda-jjew0iw0dkh9dhh0.mp4
-谭咏麟-讲不出再见,https://vd3.bdstatic.com/mda-md5qdvpdrrft0qqd/mda-md5qdvpdrrft0qqd.mp4
-阿杜-撕夜,https://vd3.bdstatic.com/mda-jfhj6ccsff5n2psg/mda-jfhj6ccsff5n2psg.mp4
-成龙、金喜善-无尽的爱,https://vd4.bdstatic.com/mda-ifphb62azr2qk9kf/hd/mda-ifphb62azr2qk9kf.mp4
-莫文蔚-电台情歌,https://vd4.bdstatic.com/mda-mact38ncv86a7z5x/v1-cae/1080p/mda-mact38ncv86a7z5x.mp4
-毛不易-牧马城市,https://vdse.bdstatic.com//1d83dfc2411243e5b9f44462e1e55ab3.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2019-12-14T02%3A12%3A40Z%2F-1%2Fhost%2F4739737cd8b21cbdb307a5d008abe88a61afce23616c55f2a8fae768fc2b6764
-毛不易-像我这样的人,https://vd3.bdstatic.com/mda-ka8qm8710ymkqdry/hd/mda-ka8qm8710ymkqdry.mp4?pd=20&vt=1
-黄品源-海浪,http://qukufile2.qianqian.com/data2/video/ff9888a76ff82080886fd1c2e24782c6/608003698/608003698.mp4
-刘若英-当爱在靠近,http://qukufile2.qianqian.com/data2/video/3e6cffefabb669b1dae52e9aa47a73b5/607990892/607990892.mp4
-刘若英-为爱痴狂,http://qukufile2.qianqian.com/data2/video/c93df601e8ad21da893c5b0fc997be4a/607984636/607984636.mp4
-莫文蔚-盛夏的果实,http://qukufile2.qianqian.com/data2/video/540467677/24f9b31a35dbfc91fd67e72b42fcafbf/540467677.mp4
-花粥、马雨阳-盗将行,https://vdse.bdstatic.com//8355cbc6c2fe19c5ad280869218430f5.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T13%3A03%3A13Z%2F-1%2Fhost%2F79c755e10a28040d25c417fac00f7f489b53a6d21959e047363889876ded1bce
-于文文-体面,https://vdse.bdstatic.com//f18bdf41f28b68a1b0177fa5e5cdf8fe.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T14%3A25%3A29Z%2F-1%2Fhost
-赵方婧-芒种,http://em.21dtv.com/songs/60178956.mkv
-王琪-站着等你三千年,http://em.21dtv.com/songs/60170285.mkv
-半阳-一曲相思,http://em.21dtv.com/songs/60165633.mkv
-莫文蔚、张洪量-广岛之恋,http://qukufile2.qianqian.com/data2/video/540468019/a956adb4f028ba21bbe5a3b25cb4a792/540468019.mp4
-伍佰-世界第一等,http://qukufile2.qianqian.com/data2/video/42fb57e477f5bd48f0e4be295bd1d218/607996216/607996216.mp4
-伍佰-浪人情歌,http://qukufile2.qianqian.com/data2/video/f562e3ba4d6ec779c1fb2def8336b2b9/607998066/607998066.mp4
-徐怀钰-纷飞,http://qukufile2.qianqian.com/data2/video/3e059c3138279752c96df979bd140619/607980979/607980979.mp4
-任贤齐-伤心太平洋,http://qukufile2.qianqian.com/data2/video/f18b3a081de3533877b96a994b143b14/607997830/607997830.mp4
-任贤齐-依靠,http://qukufile2.qianqian.com/data2/video/83717587aa92d09828b8164147cb8dc0/608007235/608007235.mp4
-任贤齐-哭个痛快,http://qukufile2.qianqian.com/data2/video/49db66dcfc6ab4b1849666040ed3a006/608011778/608011778.mp4
-任齐贤-心太软,http://vodcdn.video.taobao.com/oss/ali-video/1675208d8b5f0f0d8ce09236f4068dfe/video.m3u8
-杨宗纬、张碧晨-凉凉,http://vodcdn.video.taobao.com/oss/taobao-ugc/81a4db5f7bb14f2e8260445fedc805c0/1484029283/video.m3u8.m3u8
-陈慧娴-千千阙歌,http://vodcdn.video.taobao.com/oss/ali-video/8f45a35108ebe1b1951d2936007e3cd0/video.m3u8
-吕方-朋友别哭,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/qgljCDKewD8vEgOMrrt%40%40sd.m3u8
-林忆莲、李宗盛-当爱已成往事,http://em.21dtv.com/songs/60100136.mkv
-许茹芸-独角戏,http://vodcdn.video.taobao.com/oss/ali-video/5333f389ce940d0a2c1dd6090927746c/video.m3u8
-许茹芸-如果云知道,http://vodcdn.video.taobao.com/oss/ali-video/fd87aea7bc293a5930b8a64c752df476/video.m3u8
-周华健-朋友,http://vodcdn.video.taobao.com/oss/ali-video/6079de4355c45a42073ead75954c1b2f/video.m3u8
-张惠妹-我可以抱你吗,http://vodcdn.video.taobao.com/oss/taobao-ugc/f4428d3e798c4d279f90ba68a5b06dfa/1520326486/video.m3u8.m3u8
-张惠妹-听海,http://vodcdn.video.taobao.com/oss/ali-video/c105aa7685c54fbfa74b92e8cc88a3e3/1457681472/video.m3u8.m3u8
-MyHeartWillGoOn(泰坦尼克号主题曲),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_uCa4gUo7Irtnwc.mp4
-广岛之恋,http://qukufile2.qianqian.com/data2/video/540468019/a956adb4f028ba21bbe5a3b25cb4a792/540468019.mp4
-我是不是你最疼爱的人,http://qukufile2.qianqian.com/data2/video/7600f12b9f579908d0da1250ec0fb198/607962297/607962297.mp4
-得意的笑,http://qukufile2.qianqian.com/data2/video/2dafdf92616b6c8ccd1f28c40ce7b5c2/607973321/607973321.mp4
-陈慧娴-千千阙歌,http://vodcdn.video.taobao.com/oss/ali-video/8f45a35108ebe1b1951d2936007e3cd0/video.m3u8
-周华健-风雨无阻,http://vodcdn.video.taobao.com/oss/ali-video/8d77795bdc63d87125ba47f993e0bfb4/video.m3u8
-周慧敏-痴心换情深,http://vodcdn.video.taobao.com/oss/ali-video/aa07f0b5c8a36740b3bee03d69a4116c/video.m3u8
-辛晓琪-领悟,http://vodcdn.video.taobao.com/oss/ali-video/2a4e61d4bba6b712bd5638fd508e85a5/video.m3u8
-2021年6首网络伤感情歌,http://39.165.32.235:88/v1.go2yd.com/video/fcaf341a6038ed4d8dbd50deaf3036c1.mp4_bd.mp4
+
 
 📻广播电台,#genre#
+资讯广播,http://sk.cri.cn/905.m3u8
+环球广播,http://sk.cri.cn/hyhq.m3u8
+南海之声,http://sk.cri.cn/nhzs.m3u8
+HIT FM,http://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8
+中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+经典音乐,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+台海之声,http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+神州之声,http://ngcdn006.cnr.cn/live/szzs/index.m3u8
+大湾之声,http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
+香港之声,http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+民族之声,http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
+文艺之声,http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
+老年之声,http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+阅读之声,http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+乡村之声,http://ngcdn017.cnr.cn/live/xczs/index.m3u8
 CNR经典音乐,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 CCTV音乐之声,http://ngcdn003.cnr.cn/live/yyzs48/index.m3u8
 怀集音乐台,http://live.xmcdn.com:80/live/966/64.m3u8
@@ -1405,7 +1338,6 @@ CCTV音乐之声,http://ngcdn003.cnr.cn/live/yyzs48/index.m3u8
 安徽音乐广播,http://stream.ahrtv.cn/yygb/sd/live.m3u8
 贵州音乐广播,http://ls.qingting.fm/live/23937.m3u8
 海南音乐广播,http://ls.qingting.fm/live/4878.m3u8
-河北音乐广播,http://ls.qingting.fm/live/1649.m3u8
 河南音乐广播,http://ls.qingting.fm/live/1208.m3u8
 湖北经典音乐广播,http://live7.hbtv.com.cn/masvod/hbjdyygb_q1/index.m3u8
 吉林音乐广播,http://ls.qingting.fm/live/1831.m3u8
@@ -1442,24 +1374,6 @@ MY,https://astro1.rastream.com/myfm
 深圳先锋,http://ls.qingting.fm/live/1270.m3u8
 深圳飞扬,http://satellitepull.cnr.cn/live/wxszfy971/playlist.m3u8
 深圳生活,http://satellitepull.cnr.cn/live/wxszsjcgb/playlist.m3u8
-资讯广播,http://sk.cri.cn/905.m3u8
-环球广播,http://sk.cri.cn/hyhq.m3u8
-南海之声,http://sk.cri.cn/nhzs.m3u8
-HIT FM,http://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8
-中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
-经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
-音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
-经典音乐,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
-台海之声,http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
-神州之声,http://ngcdn006.cnr.cn/live/szzs/index.m3u8
-大湾之声,http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
-香港之声,http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
-民族之声,http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
-文艺之声,http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
-老年之声,http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
-阅读之声,http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
-交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
-乡村之声,http://ngcdn017.cnr.cn/live/xczs/index.m3u8
 长三角之声🛰️,http://satellitepull.cnr.cn/live/wx32dfgbdt/playlist.m3u8
 第一财经广播🛰️,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 长沙交通,http://115.238.238.218/zhcs_radio/jtgb1061__redirect__20573.m3u8
@@ -1654,6 +1568,102 @@ Heart FM 乐动1056,http://starfish.bj.aliyun.006.qingting.fm:8000/shenyangjingd
 山东经济广播,http://satellitepull.cnr.cn/live/wxsdjjgb/playlist.m3u8
 山东体育广播,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东交通广播,http://satellitepull.cnr.cn/live/wxsdjtgb/playlist.m3u8
+
+
+音乐,#genre#
+韓國娛樂台KMTV,http://93.190.139.36:8278/streams/d/chcaction/playlist.m3u8
+韓國娛樂,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv016
+韩国DJ Soda Remix 2021 电音,https://vd3.bdstatic.com/mda-mev3hw0htz28h5wn/1080p/cae_h264/1622343504467773766/mda-mev3hw0htz28h5wn.mp4
+CCTV风云音乐,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226083/1/index.m3u8?fmt=ts2hls
+音乐20TV,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+UTV舞蹈视界,http://39.134.198.32:6410/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/SD-1500k-576P-youshizy/index.m3u8?%20
+MTV音樂台,rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d82?sign=epgg4bkSF4hx%2BZ5WNsuYKsEpljb%2FpPGYAqq21iv2vQJp%2B%2B%2FBLThgPxbdMeXbUy1XfWEH
+M20TV,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+MTVYo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+MTVBiggestPop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+MTVBlockParty,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+MTVSpankin'New,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+岭南戲曲,http://szlive.grtn.cn/lnxq/sd/live.m3u8
+MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+MTV Spankin\' New,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+MTV Yo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+
+
+🎶MV,#genre#
+我们的爱,https://gmail.ku8.club/jianghu/iqiyi/281057b6f71840a1970f8e0ff5c97dd9.m3u8
+木头的心,https://vd3.bdstatic.com/mda-im6rnrey5buvapvp/sc/mda-im6rnrey5buvapvp.mp4
+错位时空,http://play.bgp.68tool.com/video/m3u8/2021/05/15/50056b47/playlist.m3u8
+绿色,http://play.bgp.68tool.com/m3u8/2019/05/25/spGx73FS4wD4b9mCo6LA/01w8p.m3u8
+白月光与朱砂痣,http://play.bgp.68tool.com/video/m3u8/2021/05/02/2995e892/playlist.m3u8
+暗里着迷,http://play.bgp.68tool.com/video/m3u8/2021/05/05/cddcf4d6/playlist.m3u8
+等一分钟,http://play.bgp.68tool.com/video/m3u8/2021/05/05/5972aed6/playlist.m3u8
+9420,http://play.bgp.68tool.com/video/m3u8/2021/04/09/13404be6/playlist.m3u8
+一次就好,http://play.bgp.68tool.com/video/m3u8/2021/04/03/7d7f7763/playlist.m3u8
+喜欢你,http://play.bgp.68tool.com/video/m3u8/2021/04/07/df5f8626/playlist.m3u8
+友情岁月,https://cache1.parwix.com:4433/cache/iqiyi/05153f6df1b9b366b3137c260c4fcc8f.m3u8
+友情岁月（女版）,https://cache1.parwix.com:4433/cache/iqiyi/1882056e5e7fac02f68d9439e10802c0.m3u8
+少年,http://play.bgp.68tool.com/video/m3u8/2020/11/05/9e2d5973/playlist.m3u8
+我的梦,http://play.bgp.68tool.com/video/m3u8/2020/10/26/3cdf8df8/playlist.m3u8
+当年情,http://play.bgp.68tool.com/video/m3u8/2021/06/02/390ac537/playlist.m3u8
+莫斯科没有眼泪,http://play.bgp.68tool.com/video/m3u8/2021/06/05/0433b9ce/playlist.m3u8
+追光者《夏至未至》,http://play.bgp.68tool.com/video/m3u8/2020/10/24/83619562/playlist.m3u8
+爱要怎么说出口,http://play.bgp.68tool.com/video/m3u8/2021/06/07/7b6837e2/playlist.m3u8
+可惜没如果,http://play.bgp.68tool.com/video/m3u8/2021/06/07/4ae9bc1b/playlist.m3u8
+你怎么舍得我难过,http://play.bgp.68tool.com/video/m3u8/2021/06/07/edd5d8d0/playlist.m3u8
+风中有朵雨做的云,http://play.bgp.68tool.com/video/m3u8/2021/06/07/77ec385b/playlist.m3u8
+羞答答的玫瑰静悄悄地开,http://play.bgp.68tool.com/video/m3u8/2021/06/07/02ef982b/playlist.m3u8
+偏爱,http://play.bgp.68tool.com/video/m3u8/2021/06/07/635b1e54/playlist.m3u8
+大风吹,http://play.bgp.68tool.com/video/m3u8/2021/06/05/6c6e1d30/playlist.m3u8
+最亲的人,http://play.bgp.68tool.com/video/m3u8/2021/05/02/b90395ab/playlist.m3u8
+勇气,http://play.bgp.68tool.com/video/m3u8/2021/04/29/04cd4419/playlist.m3u8
+芒种,http://play.bgp.68tool.com/video/m3u8/2021/04/09/682d70e1/playlist.m3u8
+阿桑-寂寞在唱歌,https://vd2.bdstatic.com/mda-km9s2rpnbupmirtf/v1-cae/1080p/mda-km9s2rpnbupmirtf.mp4
+张信哲-信仰,https://vd4.bdstatic.com/mda-kf92mpmcu9zbyxn8/v1-cae/sc/mda-kf92mpmcu9zbyxn8.mp4
+金莎-星月神话,https://vd4.bdstatic.com/mda-jjew0iw0dkh9dhh0/sc/mda-jjew0iw0dkh9dhh0.mp4
+谭咏麟-讲不出再见,https://vd3.bdstatic.com/mda-md5qdvpdrrft0qqd/mda-md5qdvpdrrft0qqd.mp4
+阿杜-撕夜,https://vd3.bdstatic.com/mda-jfhj6ccsff5n2psg/mda-jfhj6ccsff5n2psg.mp4
+成龙、金喜善-无尽的爱,https://vd4.bdstatic.com/mda-ifphb62azr2qk9kf/hd/mda-ifphb62azr2qk9kf.mp4
+莫文蔚-电台情歌,https://vd4.bdstatic.com/mda-mact38ncv86a7z5x/v1-cae/1080p/mda-mact38ncv86a7z5x.mp4
+毛不易-牧马城市,https://vdse.bdstatic.com//1d83dfc2411243e5b9f44462e1e55ab3.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2019-12-14T02%3A12%3A40Z%2F-1%2Fhost%2F4739737cd8b21cbdb307a5d008abe88a61afce23616c55f2a8fae768fc2b6764
+毛不易-像我这样的人,https://vd3.bdstatic.com/mda-ka8qm8710ymkqdry/hd/mda-ka8qm8710ymkqdry.mp4?pd=20&vt=1
+黄品源-海浪,http://qukufile2.qianqian.com/data2/video/ff9888a76ff82080886fd1c2e24782c6/608003698/608003698.mp4
+刘若英-当爱在靠近,http://qukufile2.qianqian.com/data2/video/3e6cffefabb669b1dae52e9aa47a73b5/607990892/607990892.mp4
+刘若英-为爱痴狂,http://qukufile2.qianqian.com/data2/video/c93df601e8ad21da893c5b0fc997be4a/607984636/607984636.mp4
+莫文蔚-盛夏的果实,http://qukufile2.qianqian.com/data2/video/540467677/24f9b31a35dbfc91fd67e72b42fcafbf/540467677.mp4
+花粥、马雨阳-盗将行,https://vdse.bdstatic.com//8355cbc6c2fe19c5ad280869218430f5.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T13%3A03%3A13Z%2F-1%2Fhost%2F79c755e10a28040d25c417fac00f7f489b53a6d21959e047363889876ded1bce
+于文文-体面,https://vdse.bdstatic.com//f18bdf41f28b68a1b0177fa5e5cdf8fe.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T14%3A25%3A29Z%2F-1%2Fhost
+赵方婧-芒种,http://em.21dtv.com/songs/60178956.mkv
+王琪-站着等你三千年,http://em.21dtv.com/songs/60170285.mkv
+半阳-一曲相思,http://em.21dtv.com/songs/60165633.mkv
+莫文蔚、张洪量-广岛之恋,http://qukufile2.qianqian.com/data2/video/540468019/a956adb4f028ba21bbe5a3b25cb4a792/540468019.mp4
+伍佰-世界第一等,http://qukufile2.qianqian.com/data2/video/42fb57e477f5bd48f0e4be295bd1d218/607996216/607996216.mp4
+伍佰-浪人情歌,http://qukufile2.qianqian.com/data2/video/f562e3ba4d6ec779c1fb2def8336b2b9/607998066/607998066.mp4
+徐怀钰-纷飞,http://qukufile2.qianqian.com/data2/video/3e059c3138279752c96df979bd140619/607980979/607980979.mp4
+任贤齐-伤心太平洋,http://qukufile2.qianqian.com/data2/video/f18b3a081de3533877b96a994b143b14/607997830/607997830.mp4
+任贤齐-依靠,http://qukufile2.qianqian.com/data2/video/83717587aa92d09828b8164147cb8dc0/608007235/608007235.mp4
+任贤齐-哭个痛快,http://qukufile2.qianqian.com/data2/video/49db66dcfc6ab4b1849666040ed3a006/608011778/608011778.mp4
+任齐贤-心太软,http://vodcdn.video.taobao.com/oss/ali-video/1675208d8b5f0f0d8ce09236f4068dfe/video.m3u8
+杨宗纬、张碧晨-凉凉,http://vodcdn.video.taobao.com/oss/taobao-ugc/81a4db5f7bb14f2e8260445fedc805c0/1484029283/video.m3u8.m3u8
+陈慧娴-千千阙歌,http://vodcdn.video.taobao.com/oss/ali-video/8f45a35108ebe1b1951d2936007e3cd0/video.m3u8
+吕方-朋友别哭,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/qgljCDKewD8vEgOMrrt%40%40sd.m3u8
+林忆莲、李宗盛-当爱已成往事,http://em.21dtv.com/songs/60100136.mkv
+许茹芸-独角戏,http://vodcdn.video.taobao.com/oss/ali-video/5333f389ce940d0a2c1dd6090927746c/video.m3u8
+许茹芸-如果云知道,http://vodcdn.video.taobao.com/oss/ali-video/fd87aea7bc293a5930b8a64c752df476/video.m3u8
+周华健-朋友,http://vodcdn.video.taobao.com/oss/ali-video/6079de4355c45a42073ead75954c1b2f/video.m3u8
+张惠妹-我可以抱你吗,http://vodcdn.video.taobao.com/oss/taobao-ugc/f4428d3e798c4d279f90ba68a5b06dfa/1520326486/video.m3u8.m3u8
+张惠妹-听海,http://vodcdn.video.taobao.com/oss/ali-video/c105aa7685c54fbfa74b92e8cc88a3e3/1457681472/video.m3u8.m3u8
+MyHeartWillGoOn(泰坦尼克号主题曲),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_uCa4gUo7Irtnwc.mp4
+广岛之恋,http://qukufile2.qianqian.com/data2/video/540468019/a956adb4f028ba21bbe5a3b25cb4a792/540468019.mp4
+我是不是你最疼爱的人,http://qukufile2.qianqian.com/data2/video/7600f12b9f579908d0da1250ec0fb198/607962297/607962297.mp4
+得意的笑,http://qukufile2.qianqian.com/data2/video/2dafdf92616b6c8ccd1f28c40ce7b5c2/607973321/607973321.mp4
+陈慧娴-千千阙歌,http://vodcdn.video.taobao.com/oss/ali-video/8f45a35108ebe1b1951d2936007e3cd0/video.m3u8
+周华健-风雨无阻,http://vodcdn.video.taobao.com/oss/ali-video/8d77795bdc63d87125ba47f993e0bfb4/video.m3u8
+周慧敏-痴心换情深,http://vodcdn.video.taobao.com/oss/ali-video/aa07f0b5c8a36740b3bee03d69a4116c/video.m3u8
+辛晓琪-领悟,http://vodcdn.video.taobao.com/oss/ali-video/2a4e61d4bba6b712bd5638fd508e85a5/video.m3u8
+2021年6首网络伤感情歌,http://39.165.32.235:88/v1.go2yd.com/video/fcaf341a6038ed4d8dbd50deaf3036c1.mp4_bd.mp4
+
 
 
 📺景区,#genre#
@@ -1955,9 +1965,11 @@ Heart FM 乐动1056,http://starfish.bj.aliyun.006.qingting.fm:8000/shenyangjingd
 斗鱼韩国女团1,http://dyscdnali1.douyucdn.cn/live/17732rtara.flv?uuid=
 斗鱼韩国女团2,http://dyscdnali1.douyucdn.cn/live/231464rNBvAvw55m.flv?uuid=
 
+电影,#genre#
+电影《长津湖》1080p,https://m3u8.json.hfyrw.com:9502/video_cache/d5f50dcd917ce8ca746f214e05e8895d/main.m3u8
+道恩强森2021新片:红色通缉令,https://sod.bunediy.com/20211112/nuwcw4yr/index.m3u8
 
-
-歌曲频道,#genre#
+MV,#genre#
 毛宁-晚秋,http://vodcdn.video.taobao.com/oss/ali-video/95751adaad64e6ca860b18f4855cd94d/video.m3u8
 毛宁-晚秋,http://vodcdn.video.taobao.com/oss/ali-video/95751adaad64e6ca860b18f4855cd94d/video.m3u8
 张碧晨-凉凉,http://vodcdn.video.taobao.com/oss/taobao-ugc/81a4db5f7bb14f2e8260445fedc805c0/1484029283/video.m3u8.m3u8
