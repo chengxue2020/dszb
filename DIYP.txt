@@ -1326,7 +1326,15 @@ CCTV音乐之声,http://ngcdn003.cnr.cn/live/yyzs48/index.m3u8
 好听音乐台,http://live.xmcdn.com:80/live/870/64.m3u8
 老歌音乐台,http://live.xmcdn.com:80/live/2628/64.m3u8
 金十网络电台,http://fmcdn.jin10.com/AAC/voice.m3u8
+80后音悦台,http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
+动感音悦台,http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
+潮流音悦台,http://stream3.hndt.com/now/Or5au0KN/playlist.m3u8
+中国校园,http://starfish.bj.aliyun.001.qingting.fm:8000/zhongguoxiaoyuanzhisheng
 亚洲经典音乐电台,http://live.xmcdn.com:80/live/1005/64.m3u8
+中广新闻网,http://stream.rcs.revma.com/78fm9wyy2tzuv.m3u8
+中广流行网,http://stream.rcs.revma.com/aw9uqyxy2tzuv.m3u8
+中广音乐网,http://stream.rcs.revma.com/ks4vsmg3qtzuv.m3u8
+台湾98新闻,http://stream.rcs.revma.com/55tyxsy4qtzuv.m3u8
 香港电台第六台：香港之声,http://rthkaudio6cnr-lh.akamaihd.net/i/radio6cnr_1@575604/master.m3u8
 萤火虫网络电台,http://ls.qingting.fm/live/4998.m3u8#http://fmyhc.com:8066/1022.mp3?t=1575879961529
 中国校园之声,http://live.xmcdn.com/live/9/64.m3u8
@@ -1355,22 +1363,6 @@ CCTV音乐之声,http://ngcdn003.cnr.cn/live/yyzs48/index.m3u8
 新疆音乐广播,http://aod.xjbs.com.cn:1935/live/1039/32K/tzwj_video.m3u8
 云南音乐广播,http://ls.qingting.fm/live/1929.m3u8
 浙江动听,http://ls.qingting.fm/live/4866.m3u8
-中广新闻网,http://stream.rcs.revma.com/78fm9wyy2tzuv
-中广流行网,http://stream.rcs.revma.com/aw9uqyxy2tzuv
-中广音乐网,http://stream.rcs.revma.com/ks4vsmg3qtzuv
-台湾98新闻,http://stream.rcs.revma.com/55tyxsy4qtzuv.m3u
-美国之音,https://voaaudio-lh.akamaihd.net/i/PACKVOA151_124L@824401/master.m3u8
-法广循环,http://icepe1.infomaniak.ch/rfienchinois-64.mp3
-台湾CityFM|城市,http://fm929.cityfm.tw:8080/929.mp3
-新加坡CAPITAL 958,https://19183.live.streamtheworld.com/CAPITAL958FM_PREM.aac
-新加坡LOVE 972,https://14033.live.streamtheworld.com/LOVE972FM_PREM.aac
-新加坡one FM,https://mediaprima.rastream.com/mediaprima-onefm
-MY,https://astro1.rastream.com/myfm
-新加坡988友声有色,http://23023.live.streamtheworld.com/988_FMAAC.aac
-新加坡好FM,https://22283.live.streamtheworld.com/HAO_963AAC.aac
-新加坡UFM 1003,https://22283.live.streamtheworld.com/UFM_1003AAC.aac
-新加坡YES 933,https://22393.live.streamtheworld.com/YES933_PREM.aac
-新加坡CNA 938,https://14033.live.streamtheworld.com/938NOW_PREM.aac
 深圳先锋,http://ls.qingting.fm/live/1270.m3u8
 深圳飞扬,http://satellitepull.cnr.cn/live/wxszfy971/playlist.m3u8
 深圳生活,http://satellitepull.cnr.cn/live/wxszsjcgb/playlist.m3u8
@@ -1408,10 +1400,6 @@ MY,https://astro1.rastream.com/myfm
 格莱美,http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
 Star Talk Radio,http://tunein.streamguys1.com/StarTalkRadio
 TED Talks,http://tunein.streamguys1.com/TEDTalks
-80后音悦台,http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
-动感音悦台,http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
-潮流音悦台,http://stream3.hndt.com/now/Or5au0KN/playlist.m3u8
-中国校园,http://starfish.bj.aliyun.001.qingting.fm:8000/zhongguoxiaoyuanzhisheng
 星河音乐台,http://stream.hndt.com/live/1061/playlist.m3u8
 Coffee House,http://rfcmedia.streamguys1.com/coffeehousepremium.mp3
 New Pop Hits,http://rfcmedia.streamguys1.com/newpophitspremium.mp3
@@ -1568,6 +1556,18 @@ Heart FM 乐动1056,http://starfish.bj.aliyun.006.qingting.fm:8000/shenyangjingd
 山东经济广播,http://satellitepull.cnr.cn/live/wxsdjjgb/playlist.m3u8
 山东体育广播,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东交通广播,http://satellitepull.cnr.cn/live/wxsdjtgb/playlist.m3u8
+法广循环,http://icepe1.infomaniak.ch/rfienchinois-64.mp3
+台湾CityFM|城市,http://fm929.cityfm.tw:8080/929.mp3
+新加坡CAPITAL 958,https://19183.live.streamtheworld.com/CAPITAL958FM_PREM.aac
+新加坡LOVE 972,https://14033.live.streamtheworld.com/LOVE972FM_PREM.aac
+新加坡one FM,https://mediaprima.rastream.com/mediaprima-onefm
+MY,https://astro1.rastream.com/myfm
+新加坡988友声有色,http://23023.live.streamtheworld.com/988_FMAAC.aac
+新加坡好FM,https://22283.live.streamtheworld.com/HAO_963AAC.aac
+新加坡UFM 1003,https://22283.live.streamtheworld.com/UFM_1003AAC.aac
+新加坡YES 933,https://22393.live.streamtheworld.com/YES933_PREM.aac
+新加坡CNA 938,https://14033.live.streamtheworld.com/938NOW_PREM.aac
+美国之音,https://voaaudio-lh.akamaihd.net/i/PACKVOA151_124L@824401/master.m3u8
 
 
 音乐,#genre#
@@ -1966,8 +1966,7 @@ MyHeartWillGoOn(泰坦尼克号主题曲),https://15799848.s21v.faiusr.com/58/AB
 斗鱼韩国女团2,http://dyscdnali1.douyucdn.cn/live/231464rNBvAvw55m.flv?uuid=
 
 电影,#genre#
-电影《长津湖》1080p,https://m3u8.json.hfyrw.com:9502/video_cache/d5f50dcd917ce8ca746f214e05e8895d/main.m3u8
-道恩强森2021新片:红色通缉令,https://sod.bunediy.com/20211112/nuwcw4yr/index.m3u8
+电影《长津湖》1080p,https://europe.olemovienews.com/hlstimeofffmp4/20220101/DHIdAmwv/mp4/DHIdAmwv.mp4/index-v1-a1.m3u8
 
 MV,#genre#
 毛宁-晚秋,http://vodcdn.video.taobao.com/oss/ali-video/95751adaad64e6ca860b18f4855cd94d/video.m3u8
