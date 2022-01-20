@@ -1961,6 +1961,7 @@ MTV Yo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/mast
 
 
 🎤MV,#genre#
+Y香子-鬼迷心竅DJ,https://ffsup.oduuu.com/uploads%2F724%2F2021%2F12%2Fpz6oyyMu_%E9%A6%99%E5%AD%90%20-%20%E9%AC%BC%E8%BF%B7%E5%BF%83%E7%AB%85DJ.mp4
 毛宁-晚秋,http://vodcdn.video.taobao.com/oss/ali-video/95751adaad64e6ca860b18f4855cd94d/video.m3u8
 毛宁-晚秋,http://vodcdn.video.taobao.com/oss/ali-video/95751adaad64e6ca860b18f4855cd94d/video.m3u8
 张碧晨-凉凉,http://vodcdn.video.taobao.com/oss/taobao-ugc/81a4db5f7bb14f2e8260445fedc805c0/1484029283/video.m3u8.m3u8
@@ -2873,30 +2874,4 @@ xxx71,http://188.165.53.164/vidshd/56ea912c4df934c216c352fa8d623af3/460.mp4
 国产_48,https://video.huishenghuo888888.com/jingpin/20210828/8QpDOdTm/index.m3u8
 国产_49,https://video.huishenghuo888888.com/jingpin/20210828/rNITvlHd/index.m3u8
 国产_50,https://video.huishenghuo888888.com/jingpin/20210828/QJKP1ttU/index.m3u8
-
-LOVE直播1,rtmp://q3qb.zxbph.cn/5showcam/7736147_1642575548?auth_key=1642579113-0-0-4247c138cf7370479c9ade386f96a569
-LOVE直播2,rtmp://q66e.jyzbi.cn/5showcam/7698057_1642573317?auth_key=1642579113-0-0-100d91603e1eac17b23d3d9fcbbb19da
-LOVE直播3,rtmp://q66e.jyzbi.cn/5showcam/6670352_1642569221?auth_key=1642579113-0-0-851375e99bb2f3d3e732d6e82025b72e
-LOVE直播4,rtmp://q3qd.zxbph.cn/5showcam/2500815_1642567363?auth_key=1642579113-0-0-2bb78ca75f6f95d9b147a68710f17d75
-LOVE直播5,rtmp://q66c.jyzbi.cn/5showcam/7714876_1642564955?auth_key=1642579113-0-0-102f0d669498cd9045ee6e0c6e0247fd
-LOVE直播6,rtmp://q66e.jyzbi.cn/5showcam/7631657_1642564893?auth_key=1642579113-0-0-b79dc5e7f3c8c3b03d7e7b0120ffaaea
-LOVE直播8,rtmp://q66f.jyzbi.cn/5showcam/7402272_1642564681?auth_key=1642579113-0-0-43e5093b82c98b6bbcb377ff7fdd6e4d
-LOVE直播9,rtmp://q66m.jyzbi.cn/5showcam/6694216_1642564357?auth_key=1642579113-0-0-23c0e4091047611ba13bb71691da561d
-LOVE直播10,rtmp://q3qd.zxbph.cn/5showcam/7499757_1642564826?auth_key=1642579113-0-0-e2c2c08813dce26572e9a10eebe288c9
-LOVE直播11,rtmp://q66a.jyzbi.cn/5showcam/7817344_1642574102?auth_key=1642579113-0-0-aefd3e5ab6d14e046300be6e1eacd37f
-LOVE直播12,rtmp://q66m.jyzbi.cn/5showcam/6561437_1642571736?auth_key=1642579113-0-0-8e3757951a37fb31405fe5f13f3ec174
-LOVE直播13,rtmp://q3qb.zxbph.cn/5showcam/7694225_1642570300?auth_key=1642579113-0-0-e4941295af82776e8c7751b0c14af35f
-LOVE直播14,rtmp://q3qb.zxbph.cn/5showcam/7715168_1642576256?auth_key=1642579113-0-0-ea33d6490bd394be072448a82cf87421
-LOVE直播15,rtmp://q66a.jyzbi.cn/5showcam/6517139_1642572696?auth_key=1642579113-0-0-954a1ac2c064c584a2dd86ec954c2a0d
-LOVE直播16,rtmp://q66c.jyzbi.cn/5showcam/7601496_1642565619?auth_key=1642579113-0-0-a25166423ff880b69c964758cc2bdec8
-LOVE直播17,rtmp://q66a.jyzbi.cn/5showcam/6836569_1642564700?auth_key=1642579114-0-0-7fdfeceeae2ca9c65c6f6dd059e84918
-LOVE直播18,rtmp://q3qb.zxbph.cn/5showcam/5782704_1642564686?auth_key=1642579114-0-0-d0e65f88c04c6122181cbc767768be21
-LOVE直播19,rtmp://q66f.jyzbi.cn/5showcam/7691910_1642564880?auth_key=1642579114-0-0-21b8ab6bd277765daf393187c896eef7
-LOVE直播20,rtmp://q66m.jyzbi.cn/5showcam/6956240_1642575816?auth_key=1642579114-0-0-f508097d25a528d9c34294aad6ad8f01
-LOVE直播21,rtmp://q66f.jyzbi.cn/5showcam/6708718_1642572917?auth_key=1642579114-0-0-8db10051e48673980b797db642a62485
-LOVE直播22,rtmp://q66c.jyzbi.cn/5showcam/7340095_1642564504?auth_key=1642579114-0-0-6eef72f7e85070d002988a184b9d7031
-LOVE直播23,rtmp://q66f.jyzbi.cn/5showcam/7728692_1642575914?auth_key=1642579114-0-0-082e728bf7719c4ba23c180c78eb185b
-LOVE直播24,rtmp://q66a.jyzbi.cn/5showcam/6838999_1642573558?auth_key=1642579114-0-0-188f9c76613385570a4218480f98770f
-LOVE直播25,rtmp://q66a.jyzbi.cn/5showcam/171296_1642570895?auth_key=1642579114-0-0-5c84bcca91c43c312b7fb2a4998b3003
-LOVE直播26,rtmp://q66f.jyzbi.cn/5showcam/7721479_1642575479?auth_key=1642579114-0-0-d265cdd85960279b3a0b4524ea379232
 
