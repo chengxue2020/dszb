@@ -2695,6 +2695,7 @@ NHK WORLD(中文字幕),http://iptv.tvfix.org/hls/nhkworldzh.m3u8
 
 🔇加密_DIYP,#genre#
 松视2台,https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv
+Teen,http://cdn.adultiptv.net/teen.m3u8
 香蕉测试,https://fbk.vstudy.net.cn/hls/20211129/fd26b4bc7ccb49dcef75a052d8322811/index.m3u8
 完美人妻的白虎穴~吃完饭直接约回家操,https://fbk.vstudy.net.cn/hls/20211127/6b1708acded88e5332f036735f8f6124/index.m3u8
 不愧是老司机~怎么玩都可以,https://fbk.vstudy.net.cn/hls/20211202/e2a496b001e6e5130e6ae9971a5c1731/index.m3u8
