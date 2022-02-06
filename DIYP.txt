@@ -467,6 +467,10 @@ DoxTV,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226048
 CNC中文,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
 CNC英文,http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
 
+电影,#genre#
+最后的前线（国语高清）https://wy.zhaojiuwanwu.top/api/GetDownUrlTx/d91ea50eb7eb4932b92aa8bb3c61560d/0621f943b9674311b5b33550e0bde289.mp4
+
+
 NASA,#genre#
 NASA TV Media,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 NASA TV Public,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
