@@ -460,7 +460,7 @@ DoxTV,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226048
 家庭剧场,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c55_lb_158_600_t10/c55_lb_158_600_t10.m3u8
 军事观察,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c57_lb_239_720P_t10/c57_lb_239_720P_t10.m3u8
 五星影院,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_183_600_t10/c56_lb_183_600_t10.m3u8
-
+红牛电视,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
 长城对外平台,#genre#
 中国黄河,http://liveflash.sxrtv.com/live/huanghe.m3u8
@@ -469,6 +469,13 @@ CNC英文,http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
 
 电影,#genre#
 最后的前线（国语高清）https://wy.zhaojiuwanwu.top/api/GetDownUrlTx/d91ea50eb7eb4932b92aa8bb3c61560d/0621f943b9674311b5b33550e0bde289.mp4
+水门桥HDhttps://vd2.bdstatic.com/mda-nau4wwhubbyqjsww/fhd/cae_h264_nowatermark_delogo/1643427296792416386/mda-nau4wwhubbyqjsww.mp4?v_from_s=hkapp-haokan-nanjing&amp;auth_key=1643904310-0-0-1168086b88e1445d7f40b7496245ac6f&amp;bcevod_channel=searchbox_feed&amp;pd=1&amp;pt=3&amp;logid=2110702925&amp;vid=10368668621036716826&amp;abtest=
+水门桥，https://cdn2.bzjupinhang.com:65/20220203/fYbqgeeC/index.m3u8
+长津湖之水门桥,https://download-gd.oss-cn-guangzhou.aliyuncs.com/resources/yewen/20220204/efbb54213ce6bb16673c02405e66919c7d2ef988.m3u8
+水门桥之鬼门关抢滩登陆,https://vd2.bdstatic.com/mda-nau4wwhubbyqjsww/fhd/cae_h264_nowatermark_delogo/1643427296792416386/mda-nau4wwhubbyqjsww.mp4?v_from_s=hkapp-haokan-nanjing&amp;auth_key=1643904310-0-0-1168086b88e1445d7f40b7496245ac6f&amp;bcevod_channel=searchbox_feed&amp;pd=1&amp;pt=3&amp;logid=2110702925&amp;vid=10368668621036716826&amp;abtest=
+新僵尸先生,http://hlsmgspdl.miguvideo.com:8080/depository_wx/asset/zhengshi/5102/310/337/5102310337/media/5102310337_5008501286_455.mp4
+冬奥会开幕式,https://res.cctvnews.cctv.com/video/1015/p/93931028159220121707001015/93931028160478413107011015/8a6a3c5f9394485ebb77f2d19fafb9fd-4.m3u8?region_type=1
+
 
 
 NASA,#genre#
