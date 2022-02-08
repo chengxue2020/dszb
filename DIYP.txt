@@ -478,7 +478,6 @@ CNC英文,http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
 冬奥会开幕式,https://res.cctvnews.cctv.com/video/1015/p/93931028159220121707001015/93931028160478413107011015/8a6a3c5f9394485ebb77f2d19fafb9fd-4.m3u8?region_type=1
 
 
-
 NASA,#genre#
 NASA TV Media,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 NASA TV Public,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
