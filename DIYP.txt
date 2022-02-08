@@ -1675,6 +1675,7 @@ MTV Yo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/mast
 ⛷冬奥会,#genre#
 雪如意慢直播 全景,https://live9.plus.hebtv.com/mzb01/hd/live.m3u8
 雪如意慢直播 近景,https://live9.plus.hebtv.com/mzb02/hd/live.m3u8
+单身即地狱01,https://s1.monidai.com/20211219/1DktQf1I/index.m3u8
 
 
 
