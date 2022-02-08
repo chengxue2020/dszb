@@ -1,5 +1,4 @@
 🏘河北,#genre#
-单身即地狱01,https://s1.monidai.com/20211219/1DktQf1I/index.m3u8
 恭喜发财2,https://vd3.bdstatic.com/mda-mb9uu52g4yt2n6hb/sc/cae_h264_nowatermark/1612998321/mda-mb9uu52g4yt2n6hb.mp4
 河北卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225610/index.m3u8
 河北卫视,http://39.135.140.226:6410/PLTV/88888888/224/3221225610/2/index.m3u8?fmt=ts2hls
@@ -469,7 +468,7 @@ CNC中文,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
 CNC英文,http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
 
 最新电影,#genre#
-最后的前线（国语高清）https://wy.zhaojiuwanwu.top/api/GetDownUrlTx/d91ea50eb7eb4932b92aa8bb3c61560d/0621f943b9674311b5b33550e0bde289.mp4
+单身即地狱01,https://s1.monidai.com/20211219/1DktQf1I/index.m3u8
 水门桥HDhttps://vd2.bdstatic.com/mda-nau4wwhubbyqjsww/fhd/cae_h264_nowatermark_delogo/1643427296792416386/mda-nau4wwhubbyqjsww.mp4?v_from_s=hkapp-haokan-nanjing&amp;auth_key=1643904310-0-0-1168086b88e1445d7f40b7496245ac6f&amp;bcevod_channel=searchbox_feed&amp;pd=1&amp;pt=3&amp;logid=2110702925&amp;vid=10368668621036716826&amp;abtest=
 水门桥，https://cdn2.bzjupinhang.com:65/20220203/fYbqgeeC/index.m3u8
 长津湖之水门桥,https://download-gd.oss-cn-guangzhou.aliyuncs.com/resources/yewen/20220204/efbb54213ce6bb16673c02405e66919c7d2ef988.m3u8
