@@ -468,8 +468,7 @@ DoxTV,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226048
 CNC中文,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
 CNC英文,http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
 
-电影,#genre#
-单身即地狱01,https://s1.monidai.com/20211219/1DktQf1I/index.m3u8
+最新电影,#genre#
 最后的前线（国语高清）https://wy.zhaojiuwanwu.top/api/GetDownUrlTx/d91ea50eb7eb4932b92aa8bb3c61560d/0621f943b9674311b5b33550e0bde289.mp4
 水门桥HDhttps://vd2.bdstatic.com/mda-nau4wwhubbyqjsww/fhd/cae_h264_nowatermark_delogo/1643427296792416386/mda-nau4wwhubbyqjsww.mp4?v_from_s=hkapp-haokan-nanjing&amp;auth_key=1643904310-0-0-1168086b88e1445d7f40b7496245ac6f&amp;bcevod_channel=searchbox_feed&amp;pd=1&amp;pt=3&amp;logid=2110702925&amp;vid=10368668621036716826&amp;abtest=
 水门桥，https://cdn2.bzjupinhang.com:65/20220203/fYbqgeeC/index.m3u8
