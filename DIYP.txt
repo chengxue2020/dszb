@@ -812,21 +812,21 @@ DoxTV,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226048
 
 
 📺数字-SiTV上广电,#genre#
-SiTV新视觉,http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/xsjhd/4000000/mnf.m3u8
-SiTV动漫秀场,http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/dmxchd/4000000/mnf.m3u8
-SiTV游戏风云,http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/yxfyhd/4000000/mnf.m3u8
-SiTV劲爆体育,http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
-SiTV魅力足球,http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
-SiTV欢笑剧场,http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/hxjchd/4000000/mnf.m3u8
-SiTV极速汽车,http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/jsqchd/4000000/mnf.m3u8
-SiTV生活时尚,http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/shsshd/4000000/mnf.m3u8
-SiTV全纪实,http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/qjshd/4000000/mnf.m3u8
-SiTV都市剧场,http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/dsjchd/4000000/mnf.m3u8
-SiTV幸福彩,http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/xfchd/4000000/mnf.m3u8
-SiTV法治天地,http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/fztd/1300000/mnf.m3u8
-SiTV金色频道,http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/jingsepd/1300000/mnf.m3u8
 SiTV七彩戏剧,http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/qcxj/1300000/mnf.m3u8
 SiTV东方财经,http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/dfcj/1300000/mnf.m3u8
+SiTV全纪实,http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/qjshd/4000000/mnf.m3u8
+SiTV动漫秀场,http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/dmxchd/4000000/mnf.m3u8
+SiTV劲爆体育,http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
+SiTV幸福彩,http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/xfchd/4000000/mnf.m3u8
+SiTV新视觉,http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/xsjhd/4000000/mnf.m3u8
+SiTV极速汽车,http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/jsqchd/4000000/mnf.m3u8
+SiTV欢笑剧场,http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/hxjchd/4000000/mnf.m3u8
+SiTV法治天地,http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/fztd/1300000/mnf.m3u8
+SiTV游戏风云,http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/yxfyhd/4000000/mnf.m3u8
+SiTV生活时尚,http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/shsshd/4000000/mnf.m3u8
+SiTV都市剧场,http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/dsjchd/4000000/mnf.m3u8
+SiTV金色频道,http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/jingsepd/1300000/mnf.m3u8
+SiTV魅力足球,http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
 上海ICS外语,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/wypdhd/4000000/mnf.m3u8
 上海ICS外语,http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/wypdhd/4000000/mnf.m3u8
 上海东方影视,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
