@@ -1137,6 +1137,87 @@ TVB翡翠,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otyp
 亚美卫视,http://124.238.99.44:808/hls/361/index.m3u8
 亚旅卫视,https://jc-qlive-play.jingchangkan.cn/live/3473_200508855_xR9m.m3u8
 猪哥亮歌厅秀,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv006
+财经频道,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv104
+半岛国际新闻,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv10
+SexyK-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+ONE,http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+NHKWorldJapan,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
+NHKWorldJapan,http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8
+MoMo综合台,rtmp://59.124.75.138/sat/tv761
+MoMo综合台,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
+MezzoLiveHD,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv083
+JET综合台,http://50.7.61.147:30080/Entry/jet
+HBO,http://50.7.61.148:30080/Entry/hbo
+GinxEsports,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv053
+FashionOne,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn19
+ELTV英语学习台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn20
+ELEVEN体育一台,rtmp://59.124.75.138/sat/tv731
+ELEVEN体育二台,rtmp://59.124.75.138/sat/tv741
+DiscoveryHD,https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
+CTN,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
+Cnex,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv013
+CLASSICA古典乐,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv059
+CatchPlay,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv076
+BabyFirst,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn02
+AXN,http://50.7.61.148:30080/Entry/axn
+Astro爱奇艺,http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
+Arirang,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv079
+ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+ANIMAX,https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
+翡翠台(第1声道繁体),http://iptv.tvfix.org/hls/jade.m3u8
+翡翠台(第2声道简体),http://iptv.tvfix.org/hls/jade2.m3u8
+翡翠台海外版(粤语繁体),http://iptv.tvfix.org/hls/jadenhk.m3u8
+翡翠台海外版(普通话简体),http://iptv.tvfix.org/hls/jadenhk2.m3u8
+J2,http://iptv.tvfix.org/hls/j2.m3u8
+J2(第2声道),http://iptv.tvfix.org/hls/j22.m3u8
+无线新闻台,http://iptv.tvfix.org/hls/inews.m3u8
+无线新闻台(第2声道),http://iptv.tvfix.org/hls/inews2.m3u8
+明珠台,http://iptv.tvfix.org/hls/pearl.m3u8
+明珠台(第2声道),http://iptv.tvfix.org/hls/pearl2.m3u8
+无线财*资讯台,http://iptv.tvfix.org/hls/finance.m3u8
+无线财*资讯台(第2声道),http://iptv.tvfix.org/hls/finance2.m3u8
+无线财*资讯台海外版,http://iptv.tvfix.org/hls/financenhk.m3u8
+ViuTV,http://iptv.tvfix.org/hls/viutv.m3u8
+ViuTV(第2声道),http://iptv.tvfix.org/hls/viutv2.m3u8
+ViuTV6,http://iptv.tvfix.org/hls/viutv6.m3u8
+RTHK31,http://iptv.tvfix.org/hls/rthk31.m3u8
+RTHK32,http://iptv.tvfix.org/hls/rthk32.m3u8
+台湾国际财经台,http://iptv.tvfix.org/hls/hkibc.m3u8
+开电视,http://iptv.tvfix.org/hls/opentv.m3u8
+tvN,http://iptv.tvfix.org/hls/tvn.m3u8
+瞬间看地球,http://iptv.tvfix.org/hls/earth.m3u8
+美亚电影台(粤语),http://iptv.tvfix.org/hls/mydy.m3u8
+美亚电影台(普通话),http://iptv.tvfix.org/hls/mydy2.m3u8
+天映经典(粤语),http://iptv.tvfix.org/hls/tyjd.m3u8
+天映经典(普通话),http://iptv.tvfix.org/hls/tyjd2.m3u8
+Animax,http://iptv.tvfix.org/hls/animax.m3u8
+Animax(第2声道),http://iptv.tvfix.org/hls/animax2.m3u8
+Hands Up Channel,http://iptv.tvfix.org/hls/kid.m3u8
+Hands Up Channel(第2声道),http://iptv.tvfix.org/hls/kid2.m3u8
+Thrill,http://iptv.tvfix.org/hls/thrill.m3u8
+Thrill(第2声道),http://iptv.tvfix.org/hls/thrill2.m3u8
+TVB经典台,http://iptv.tvfix.org/hls/tvbjd.m3u8
+TVB为食台,http://iptv.tvfix.org/hls/tvbws.m3u8
+TVB为食台(第2声道),http://iptv.tvfix.org/hls/tvbws2.m3u8
+TVB星河(粤语),http://iptv.tvfix.org/hls/tvbxh.m3u8
+TVB星河(普通话),http://iptv.tvfix.org/hls/tvbxh2.m3u8
+TVB功夫台(粤语),http://iptv.tvfix.org/hls/tvbkf.m3u8
+TVB功夫(普通话),http://iptv.tvfix.org/hls/tvbkf2.m3u8
+凤凰资讯,http://iptv.tvfix.org/hls/fhzx.m3u8
+凤凰中文,http://iptv.tvfix.org/hls/fhzw.m3u8
+凤凰电影,http://iptv.tvfix.org/hls/fhdy.m3u8
+Discovery,http://iptv.tvfix.org/hls/discovery.m3u8
+动物星球,http://iptv.tvfix.org/hls/animal.m3u8
+Love Nature 4K,http://iptv.tvfix.org/hls/lovenature4k.m3u8
+Love Nature 4K(第2声道),http://iptv.tvfix.org/hls/lovenature4k2.m3u8
+国家地理,http://iptv.tvfix.org/hls/natlgeo.m3u8
+Channel V,http://iptv.tvfix.org/hls/channelv.m3u8
+星空卫视,http://iptv.tvfix.org/hls/startv.m3u8
+Star Sports,http://iptv.tvfix.org/hls/starsports.m3u8
+
+
+台湾,#genre#
+东森新闻,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1645993200/ei/kIgbYtiyBunS2roPyaKGkAQ/ip/129.226.191.193/id/R2iMq5LKXco.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr5---sn-i3belnl6.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/8140/mh/Ij/mm/44/mn/sn-i3belnl6/ms/lva/mv/m/mvi/5/pl/22/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1645971158/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhAL56CS8RuWiFb7FsZR_Lu9GQpaABGU3d3UBeBYiCDd5aAiEAibSfIEhSlte8nt7i-crOAIpI5r9WXF6xVCQZJhjx5lo%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgLhMwA3E1v5F3cOrfNNceYFhy10_GEVOTWJmiYGI3nmMCIDjKmPCq8iMmwZ37MQh-Oi3Z0_vimZBBUP6Vx-yffbgH/playlist/index.m3u8
 中天亚洲,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv109
 中天新闻,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv009
 中天新闻,http://live.52ypp.com:81/hk.php?id=16
@@ -1214,7 +1295,6 @@ TVB翡翠,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otyp
 大爱海外,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
 大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 达文西,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv018
-财经频道,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv104
 博斯运动一台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn07
 博斯运动二台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn08
 博斯运动二台,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
@@ -1227,7 +1307,13 @@ TVB翡翠,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otyp
 博斯高球2,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn06
 博斯高球1,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn05
 博斯电玩,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn13
-半岛国际新闻,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv10
+TVBS直播,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv073
+TVBS新闻台,rtmp://59.124.75.138/sat/tv551
+TVBS新闻台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv072
+TVBS欢乐台,rtmp://59.124.75.138:1935/sat/tv421
+TVBS欢乐台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv068
+TraceSports,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv077
+TLC旅游生活频道,http://50.7.61.147:30080/Entry/tlc
 八大综合台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv039
 八大精彩,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv034
 爱尔达综合台,http://93.190.139.36:8278/streams/d/eltazonghe/playlist.m3u8
@@ -1236,90 +1322,7 @@ TVB翡翠,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otyp
 爱尔达体育2,rtmp://59.124.75.138/sat/md051
 爱尔达体育1,rtmp://59.124.75.138/sat/md041
 V0A美国之音,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv03
-TVBS直播,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv073
-TVBS新闻台,rtmp://59.124.75.138/sat/tv551
-TVBS新闻台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv072
-TVBS欢乐台,rtmp://59.124.75.138:1935/sat/tv421
-TVBS欢乐台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv068
-TraceSports,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv077
-TLC旅游生活频道,http://50.7.61.147:30080/Entry/tlc
-SexyK-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
-ONE,http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
-NHKWorldJapan,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
-NHKWorldJapan,http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8
-MoMo综合台,rtmp://59.124.75.138/sat/tv761
-MoMo综合台,http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
-MezzoLiveHD,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv083
-JET综合台,http://50.7.61.147:30080/Entry/jet
-HBO,http://50.7.61.148:30080/Entry/hbo
-GinxEsports,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv053
-FashionOne,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn19
-ELTV英语学习台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn20
-ELEVEN体育一台,rtmp://59.124.75.138/sat/tv731
-ELEVEN体育二台,rtmp://59.124.75.138/sat/tv741
-DiscoveryHD,https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
-CTN,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
-Cnex,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv013
-CLASSICA古典乐,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv059
-CatchPlay,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv076
-BabyFirst,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn02
-AXN,http://50.7.61.148:30080/Entry/axn
-Astro爱奇艺,http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
-Arirang,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv079
-ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
-ANIMAX,https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
-翡翠台(第1声道繁体),http://iptv.tvfix.org/hls/jade.m3u8
-翡翠台(第2声道简体),http://iptv.tvfix.org/hls/jade2.m3u8
-翡翠台海外版(粤语繁体),http://iptv.tvfix.org/hls/jadenhk.m3u8
-翡翠台海外版(普通话简体),http://iptv.tvfix.org/hls/jadenhk2.m3u8
-J2,http://iptv.tvfix.org/hls/j2.m3u8
-J2(第2声道),http://iptv.tvfix.org/hls/j22.m3u8
-无线新闻台,http://iptv.tvfix.org/hls/inews.m3u8
-无线新闻台(第2声道),http://iptv.tvfix.org/hls/inews2.m3u8
-明珠台,http://iptv.tvfix.org/hls/pearl.m3u8
-明珠台(第2声道),http://iptv.tvfix.org/hls/pearl2.m3u8
-无线财*资讯台,http://iptv.tvfix.org/hls/finance.m3u8
-无线财*资讯台(第2声道),http://iptv.tvfix.org/hls/finance2.m3u8
-无线财*资讯台海外版,http://iptv.tvfix.org/hls/financenhk.m3u8
-ViuTV,http://iptv.tvfix.org/hls/viutv.m3u8
-ViuTV(第2声道),http://iptv.tvfix.org/hls/viutv2.m3u8
-ViuTV6,http://iptv.tvfix.org/hls/viutv6.m3u8
-RTHK31,http://iptv.tvfix.org/hls/rthk31.m3u8
-RTHK32,http://iptv.tvfix.org/hls/rthk32.m3u8
-台湾国际财经台,http://iptv.tvfix.org/hls/hkibc.m3u8
-开电视,http://iptv.tvfix.org/hls/opentv.m3u8
-tvN,http://iptv.tvfix.org/hls/tvn.m3u8
-瞬间看地球,http://iptv.tvfix.org/hls/earth.m3u8
-美亚电影台(粤语),http://iptv.tvfix.org/hls/mydy.m3u8
-美亚电影台(普通话),http://iptv.tvfix.org/hls/mydy2.m3u8
-天映经典(粤语),http://iptv.tvfix.org/hls/tyjd.m3u8
-天映经典(普通话),http://iptv.tvfix.org/hls/tyjd2.m3u8
-Animax,http://iptv.tvfix.org/hls/animax.m3u8
-Animax(第2声道),http://iptv.tvfix.org/hls/animax2.m3u8
-Hands Up Channel,http://iptv.tvfix.org/hls/kid.m3u8
-Hands Up Channel(第2声道),http://iptv.tvfix.org/hls/kid2.m3u8
-Thrill,http://iptv.tvfix.org/hls/thrill.m3u8
-Thrill(第2声道),http://iptv.tvfix.org/hls/thrill2.m3u8
-TVB经典台,http://iptv.tvfix.org/hls/tvbjd.m3u8
-TVB为食台,http://iptv.tvfix.org/hls/tvbws.m3u8
-TVB为食台(第2声道),http://iptv.tvfix.org/hls/tvbws2.m3u8
-TVB星河(粤语),http://iptv.tvfix.org/hls/tvbxh.m3u8
-TVB星河(普通话),http://iptv.tvfix.org/hls/tvbxh2.m3u8
-TVB功夫台(粤语),http://iptv.tvfix.org/hls/tvbkf.m3u8
-TVB功夫(普通话),http://iptv.tvfix.org/hls/tvbkf2.m3u8
-凤凰资讯,http://iptv.tvfix.org/hls/fhzx.m3u8
-凤凰中文,http://iptv.tvfix.org/hls/fhzw.m3u8
-凤凰电影,http://iptv.tvfix.org/hls/fhdy.m3u8
-Discovery,http://iptv.tvfix.org/hls/discovery.m3u8
-动物星球,http://iptv.tvfix.org/hls/animal.m3u8
-Love Nature 4K,http://iptv.tvfix.org/hls/lovenature4k.m3u8
-Love Nature 4K(第2声道),http://iptv.tvfix.org/hls/lovenature4k2.m3u8
-国家地理,http://iptv.tvfix.org/hls/natlgeo.m3u8
-Channel V,http://iptv.tvfix.org/hls/channelv.m3u8
-星空卫视,http://iptv.tvfix.org/hls/startv.m3u8
-Star Sports,http://iptv.tvfix.org/hls/starsports.m3u8
 新唐人亞太台,https://live.ntdimg.com/aplive200/playlist.m3u8
-
 
 
 🏆体育,#genre#
