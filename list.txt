@@ -834,18 +834,6 @@ IPTV4K,http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/322122655
 
 
 
-📺数字-DOX,#genre#
-Dox剧场,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226013/1/index.m3u8?fmt=ts2hls
-Dox怡家,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226016/1/index.m3u8?fmt=ts2hls
-Dox新知,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226014/1/index.m3u8?fmt=ts2hls
-Dox新艺,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226017/1/index.m3u8?fmt=ts2hls
-Dox映画,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226039/1/index.m3u8?fmt=ts2hls
-Dox环映,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226020/1/index.m3u8?fmt=ts2hls
-Dox英伦,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226045/1/index.m3u8?fmt=ts2hls
-Dox雅趣,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226042/1/index.m3u8?fmt=ts2hls
-
-
-
 📺数字-SiTV上广电,#genre#
 SiTV七彩戏剧,http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/qcxj/1300000/mnf.m3u8
 SiTV东方财经,http://tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/dfcj/1300000/mnf.m3u8
