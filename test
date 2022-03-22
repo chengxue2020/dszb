@@ -1,0 +1,11 @@
+test,#genre#
+井号,http://39.135.138.58:18890/PLTV/88888888/224/3221225610/index.m3u8$Test@#http://39.135.140.226:6410/PLTV/88888888/224/3221225610/2/index.m3u8?fmt=ts2hls
+逗号,http://39.135.138.58:18890/PLTV/88888888/224/3221225610/index.m3u8$Test#http://39.135.140.226:6410/PLTV/88888888/224/3221225610/2/index.m3u8?fmt=ts2hls
+3,http://117.169.124.36:6610/ysten-businessmobile/live/hebeistv/index.m3u8
+4,http://39.134.115.163:8080/PLTV/88888910/224/3221225732/index.m3u8
+5,http://hbpx.chinashadt.com:2036/live/px4.stream/playlist.m3u8
+6,http://223.82.250.72/live/hebeistv/1.m3u8
+7,http://192.168.2.1:1234/rtp/238.255.0.106:6408
+8,http://183.207.248.71:80/cntv/live1/n-hebeistv/n-hebeistv
+9,http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225840/index.m3u8
+10,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225610/index.m3u8?fmt=ts2hls
