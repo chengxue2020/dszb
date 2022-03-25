@@ -1,3 +1,8 @@
+热点事件,#genre#
+央视频正直播-东航事件(1920*1080),http://pull-hls-l6-xg.ixigua.com/media/stream-398836085033009163/index.m3u8
+
+
+
 🏘河北,#genre#
 河北卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225610/index.m3u8$Test
 河北卫视,http://39.135.140.226:6410/PLTV/88888888/224/3221225610/2/index.m3u8?fmt=ts2hls
@@ -957,6 +962,13 @@ CNC英文,http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
 
 
 最新电影,#genre#
+电影-丛林奇航,http://hlsmgspdl.miguvideo.com:8080/depository_yqv/asset/zhengshi/5102/821/261/5102821261/media/5102821261_5011612550_56.mp4
+电影-木兰:横空出世HD,http://hlsmgspdl.miguvideo.com:8080/depository_yqv/asset/zhengshi/5102/508/229/5102508229/media/5102508229_5011703253_56.mp4
+电影:大哥，别闹了-正片,https://hnzy3.hnzyww.com:65/20220317/5Idv5C0s/index.m3u8
+电影:不要忘记我爱你-正片,https://ukzy.ukubf4.com/20220324/sDdLXY2c/index.m3u8
+电影:东北往事我叫黄中华,https://sod.bunediy.com/20220324/SyhHI952/index.m3u8
+电影-丛林奇航,http://hlsmgspdl.miguvideo.com:8080/depository_yqv/asset/zhengshi/5102/821/261/5102821261/media/5102821261_5011612550_56.mp4
+电影-木兰:横空出世HD,http://hlsmgspdl.miguvideo.com:8080/depository_yqv/asset/zhengshi/5102/508/229/5102508229/media/5102508229_5011703253_56.mp4
 单身即地狱01,https://s1.monidai.com/20211219/1DktQf1I/index.m3u8
 水门桥HDhttps://vd2.bdstatic.com/mda-nau4wwhubbyqjsww/fhd/cae_h264_nowatermark_delogo/1643427296792416386/mda-nau4wwhubbyqjsww.mp4?v_from_s=hkapp-haokan-nanjing&amp;auth_key=1643904310-0-0-1168086b88e1445d7f40b7496245ac6f&amp;bcevod_channel=searchbox_feed&amp;pd=1&amp;pt=3&amp;logid=2110702925&amp;vid=10368668621036716826&amp;abtest=
 水门桥，https://cdn2.bzjupinhang.com:65/20220203/fYbqgeeC/index.m3u8
