@@ -986,6 +986,9 @@ CNC英文,http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
 NASA,#genre#
 NASA TV Public,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 NASA TV Media,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+NASA-直播频道-1,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+NASA-直播频道-2,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+NASA-直播频道-空间站外部摄像头,http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
 
 
 
