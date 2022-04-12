@@ -60,6 +60,14 @@ PTV4K超清,http://221.179.136.148:443/PLTV/88888888/224/3221226550/1.m3u8
 河北公共广播,http://ls.qingting.fm/live/91019.m3u8
 
 
+石家庄,#genre#
+石家庄新闻,http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8
+石家庄都市,http://pluslive1.sjzntv.cn/dushi/playlist.m3u8
+石家庄生活,http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8
+石家庄娱乐,http://pluslive1.sjzntv.cn/yule/playlist.m3u8
+
+
+
 🇨🇳央视,#genre#
 CCTV1,http://111.20.33.93/TVOD/88888893/224/3221226231/index.m3u8
 CCTV1,http://111.20.33.93/TVOD/88888893/224/3221226239/index.m3u8
