@@ -2,6 +2,7 @@
 电影-狙击手,https://qq.sd-play.com/20220325/lzt9Gi7T/hls/index.m3u8
 电影-狙击手,https://defaultts.tc.qq.com/defaultts.tc.qq.com/AGtinepXUG62rOhnpAh-4Ix2zi_fyhWUCZGx3cqOCwrY/uwMROfz2r55goaQXGdGnC2de64gtX89GT746tcTJVnDpJgsD/svp_50112/aLFpKtdTeysIXbyx7QGpRkyB7XUrmpR06Kkgtf_nnsqSqMVT97vaugWt0g4aY78xVJ2ndv4Yvt8RNlciHp5qPlhsHw93C1gfPfXZGM_YmUQuoFPfuAbBqKJCP_4X3xwkE9e-2Pb_qBbE0hp7lAq_xv5U9ePIaiB8XWmuG0H2_wgEgFoF9I8TPA/gzc_1000102_0b5324abgaaaouan3ljyhvrmbv6dcpnqaf2a.f321004.ts.m3u8?ver=4
 电影-地狱男爵：血皇后崛起,https://api.nxflv.com/Cache/QiYi/f0776f3437bfd4a5dd7de47f54e02c0b.m3u8
+电影-RRR,https://vip.lz-cdn1.com/20220531/7048_c06e35bd/1200k/hls/index.m3u8
 PTV4K超清,http://221.179.136.148:443/PLTV/88888888/224/3221226550/1.m3u8
 
 🏘河北,#genre#
